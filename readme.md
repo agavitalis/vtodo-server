@@ -1,4 +1,4 @@
-#	TODO By AGAVITALIS #
+<p align="center"><b>TODO SERVER USING NODEJS</b></p>
 
 This application is little todo, that provides authentication functions for users, allows users to
 add, edit and delete their todo list
